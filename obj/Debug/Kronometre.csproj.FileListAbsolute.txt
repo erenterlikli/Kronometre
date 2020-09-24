@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Kronometre\Kronometre\bin\Debug\Kronometre.exe.config
+C:\Users\Eren\source\repos\Kronometre\Kronometre\bin\Debug\Kronometre.exe
+C:\Users\Eren\source\repos\Kronometre\Kronometre\bin\Debug\Kronometre.pdb
+C:\Users\Eren\source\repos\Kronometre\Kronometre\obj\Debug\Kronometre.Form1.resources
+C:\Users\Eren\source\repos\Kronometre\Kronometre\obj\Debug\Kronometre.Properties.Resources.resources
+C:\Users\Eren\source\repos\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Kronometre\Kronometre\obj\Debug\Kronometre.exe
+C:\Users\Eren\source\repos\Kronometre\Kronometre\obj\Debug\Kronometre.pdb
+C:\Users\Eren\source\repos\Kronometre\Kronometre\obj\Debug\Kronometre.csprojAssemblyReference.cache
